@@ -1,2 +1,2 @@
 # TicTacToeGL
-Trying out OpenTK by making Tic Tac Toe game.
+Trying out OpenTK by making a basic Tic Tac Toe game.
