@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+ew790cgkv6Do/94qtdJ/UCYVeh4v2YeawLJNrkapUGDLerXTa+Cvuqk3jgB3krvSLLfIZpPgrZJfI0gSlVww==",
+  "success": true,
+  "projectFilePath": "D:\\Rachata\\Desktop\\Source\\Code\\C#\\TicTacToeGL2\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rachata\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk\\4.7.4\\opentk.4.7.4.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk.compute\\4.7.4\\opentk.compute.4.7.4.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk.core\\4.7.4\\opentk.core.4.7.4.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk.graphics\\4.7.4\\opentk.graphics.4.7.4.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk.input\\4.7.4\\opentk.input.4.7.4.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk.mathematics\\4.7.4\\opentk.mathematics.4.7.4.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk.openal\\4.7.4\\opentk.openal.4.7.4.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk.redist.glfw\\3.3.7.27\\opentk.redist.glfw.3.3.7.27.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk.windowing.common\\4.7.4\\opentk.windowing.common.4.7.4.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk.windowing.desktop\\4.7.4\\opentk.windowing.desktop.4.7.4.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.7.4\\opentk.windowing.graphicslibraryframework.4.7.4.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rachata\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
